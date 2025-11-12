@@ -198,14 +198,7 @@ footer { background-color: #333; color: white; text-align: center; padding: 15px
 </section>
 
 <!-- Distinctly SRS Section -->
-<section class="distinctly-section">
-    <div class="distinctly-container">
-        <div class="distinctly-grid">
-            <!-- your existing distinctly boxes remain unchanged -->
-            ...
-        </div>
-    </div>
-</section>
+<!-- Distinctly SRS Section --> <section class="distinctly-section"> <div class="distinctly-container"> <div class="distinctly-grid"> <div class="grid-box distinctly-text"> <h2>Distinctly SRS</h2> <p> We have a sprawling campus spread over 75 acres, we often teach under the shade of a tree, we are frequented by various birds species and there is plenty to learn from the rich flora around. <br>We also encourage debates, clubs, community activities of Environmental matters </p> </div> <div class="grid-box grid-item"> <img src="Home/campuslife.jpg" alt="Campus Life"> <div class="hover-text"> <h4>Campus Life</h4> <p> To instill a strong over all development of a student, we give equal importance to academics, sports, arts, literature, and culture </p> </div> <div class="grid-caption">Campus Life</div> </div> <div class="grid-box grid-item"> <img src="Home/overall.jpg" alt="Overall Development"> <div class="hover-text"> <h4>Overall Development</h4> <p>We give equal importance to academics, sports, arts, literature, and culture.</p> </div> <div class="grid-caption">Overall Development</div> </div> <div class="grid-box grid-item"> <img src="Home/quickfacts.jpg" alt="Quick Facts"> <div class="hover-text"> <h4>Quick Facts</h4> <p> We provide ICSE curriculum. <br> We are a Co-educational school.<br> We have a combination of day-scholars and boarders.<br> We have 1700 students in our school.<br> We have a sprawling campus of 25 acres.<br> Boarding facility is for both boys and girls. </p> </div> <div class="grid-caption">Quick Facts</div> </div> <div class="grid-box grid-item"> <img src="Home/legacy.jpg" alt="Explore our legacy"> <div class="hover-text"> <h4>Explore Our Legacy</h4> <p> Look into the section of 'Our Legacy' and 'History of our school' to read about our story from 1959. </p> </div> <div class="grid-caption">Explore Our Legacy</div> </div> <div class="grid-box grid-item"> <img src="Home/engage.jpg" alt="Engage"> <div class="hover-text"> <h4>Engage</h4> <p> With a sprawling campus and a rich ecosystem within the space, we inculcate a sense of discovery and inquisitiveness among our children about nature. We provide them with the learning tools, talks and experiments are conducted by researchers, naturalists and scientists who visit our campus. <br>Learn more about being engaged in our website section </p> </div> <div class="grid-caption">Engage</div> </div> </div> </div> </section>
 
 <!-- Footer -->
 <footer>
